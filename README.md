@@ -1,9 +1,8 @@
 # Aneela
 
-###Author Name
+### Author Name
 
-*Aneela Bibi
+ * Aneela_Bibi
 
-###### version
-*o.oo1
+###### Version: o.oo1
 
