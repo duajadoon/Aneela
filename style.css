@@ -1,0 +1,11 @@
+h1
+ {
+    margin: 70px;
+    border: 1px solid #4CAF50;
+    text-align: center;
+}
+body{
+  background-color: pink;
+  margin: 2px solid red;
+  padding: 4px;
+}
