@@ -1,10 +1,18 @@
-# Aneela
-
-### Author Name
-
- * Aneela_Bibi
- #### Descripition
- I join we_camp to learn coding,I want to improve my skills. I want to become a freelancer.
-
-###### Version: o.oo1
-© 2018 Dua_Jadoon [MIT license](https://github.com/duajadoon/hello-world-/blob/master/LICENSE)
+@@ -0,0 +1,17 @@
++# {Anita's kitchen}
++#### {author:Aneela}, {april 17,2018}
++#### By **{myself}**
++## Description
++{It is the readme documentation of my page that i created to advertise my new restaurant business.}
++## Setup/Installation Requirements
++*go to
++{<a href="file:///C:/Users/murad/Desktop/Aneela%20project/index.html">Anita's Kitchen</a> }
++
++## Known Bugs
++{none}
++##Technologies Used
++{html,custom css,boostrap,jquery,}
++### License
++*{GPL}*
++Copyright (c) {2018} **{aneela, under we camp}**
++
